@@ -4,7 +4,7 @@ I’m **Ahmed Kamal**, a software engineering student at ALX from Alexandria, Eg
 I’m a software engineering student at ALX who is interested in backend development.
 I’m passionate about solving problems with code and learning new technologies.
 I’m currently learning Python, C, JavaScript, HTML, and CSS, and more advanced topics such as data structures, algorithms, system engineering,
-devops, data structures and algorithms, low-level programming, and Linux. 
+devops, low-level programming, and Linux. 
 I’m also interested in artificial intelligence, machine learning, and blockchain.
 ## :file_cabinet: Projects
 Some of the projects that I have worked on or are currently working on are:
