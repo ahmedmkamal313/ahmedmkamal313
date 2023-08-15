@@ -15,6 +15,7 @@ Some of the projects that I have worked on or are currently working on are:
 - [Simple Shell](https://github.com/ahmedmkamal313/simple_shell): A project that creates a simple UNIX command interpreter. It handles basic commands, built-ins, environment variables, and redirections.
 - [Monty](https://github.com/ahmedmkamal313/monty): A project that interprets Monty ByteCodes files. It implements a stack data structure and various operations on it. It also handles errors and edge cases.
 - [sorting_algorithms](https://github.com/ahmedmkamal313/sorting_algorithms): This project is a group assignment for ALX SE, where we implement four different sorting algorithms in C and analyze their time complexity using Big O notation.
+- [AirBnB_clone](https://github.com/ahmedmkamal313/AirBnB_clone): A team project that utilizes the OOP model and is the first step towards making a full Web Application. It covers the basics of creating and managing objects, serializing and deserializing data, using a console, writing unittests, and deploying a static website. The project consists of four phases, each requiring various Python scripts and HTML/CSS files.
 
 ## :mailbox: Contact
 You can reach me at 
